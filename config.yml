@@ -1,0 +1,15 @@
+gui:
+  nerdFontsVersion: "3"
+  scrollOffMargin: 10
+  theme:
+    selectedLineBgColor:
+      - bold
+      - underline
+    cherryPickedCommitBgColor:
+      - reverse
+    cherryPickedCommitFgColor:
+      - reverse
+    searchingActiveBorderColor:
+      - reverse
+os:
+  editPreset: 'nvim'

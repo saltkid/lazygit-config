@@ -1,2 +1,5 @@
-# lazygit-config
-lazygit config
+# lazygit config
+### Location:
+```powershell
+$env:APPDATA\lazygit\
+```
